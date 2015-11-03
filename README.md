@@ -1,8 +1,7 @@
 # Eurostar-Test-Lab-2015
 General information http://conference.eurostarsoftwaretesting.com/conference/social/test-lab/
 
-# Experiment!!!
-Are you ready to experiment? http://tinyurl.com/TestLabRxperiments
+# Ready to eXperiment? http://tinyurl.com/TestLabExp
 
 # Applications under test
 ## Testing Skills by @coveredincloth
