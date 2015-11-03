@@ -1,5 +1,8 @@
 # Eurostar-Test-Lab-2015
-http://conference.eurostarsoftwaretesting.com/conference/social/test-lab/
+General information http://conference.eurostarsoftwaretesting.com/conference/social/test-lab/
+
+# Experiment!!!
+Are you ready to experiment? http://tinyurl.com/TestLabRxperiments
 
 # Applications under test
 ## Testing Skills by @coveredincloth
@@ -11,5 +14,3 @@ http://conference.eurostarsoftwaretesting.com/conference/social/test-lab/
 - Username and password: eurostar2015 / eurostar2015
 - test charters https://raw.githubusercontent.com/thesoftwaretestlab/Eurostar-Test-Lab-2015/master/Tracks%20charters.png
 
-# Experiment!!!
-Choose an experiment from here: http://tinyurl.com/TestLabRxperiments
